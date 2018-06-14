@@ -16,8 +16,15 @@
         "index.js"
     ],
     "main": "index.js",
+    "scripts": {
+        "upgrade": "npx sort-package-json && ncu -au"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/hivesolutions/prettier_config_hive.git"
+    },
+    "devDependencies": {
+        "npm-check-updates": "^2.14.2",
+        "sort-package-json": "^1.15.0"
     }
 }
