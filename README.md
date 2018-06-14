@@ -1,2 +1,3 @@
-# prettier-config-hive
-The Prettier configuration for Hive Solutions
+# Prettier Config Hive
+
+The Prettier configuration for Hive Solutions.
