@@ -1,0 +1,23 @@
+{
+    "name": "prettier-config-hive",
+    "version": "0.1.0",
+    "description": "The Prettier configuration for Hive Solutions.",
+    "keywords": [
+        "prettier",
+        "config"
+    ],
+    "homepage": "https://github.com/hivesolutions/prettier_config_hive#readme",
+    "bugs": {
+        "url": "https://github.com/hivesolutions/prettier_config_hive/issues"
+    },
+    "license": "Apache-2.0",
+    "author": "Hive Solutions",
+    "files": [
+        "index.js"
+    ],
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hivesolutions/prettier_config_hive.git"
+    }
+}
