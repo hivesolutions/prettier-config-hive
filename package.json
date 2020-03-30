@@ -16,10 +16,10 @@
     },
     "license": "Apache-2.0",
     "author": "Hive Solutions",
+    "main": "index.js",
     "files": [
         "index.js"
     ],
-    "main": "index.js",
     "scripts": {
         "upgrade": "npx sort-package-json && ncu -u"
     },
