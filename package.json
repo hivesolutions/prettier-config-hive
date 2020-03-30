@@ -24,7 +24,7 @@
         "upgrade": "npx sort-package-json && ncu -u"
     },
     "devDependencies": {
-        "npm-check-updates": "^4.0.1",
-        "sort-package-json": "^1.39.1"
+        "npm-check-updates": "^4.1.0",
+        "sort-package-json": "^1.40.0"
     }
 }
