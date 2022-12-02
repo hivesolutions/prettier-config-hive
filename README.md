@@ -8,6 +8,6 @@ Prettier Config Hive is currently licensed under the [Apache License, Version 2.
 
 ## Build Automation
 
-[![Build Status](https://app.travis-ci.com/hivesolutions/prettier_config_hive.svg?branch=master)](https://travis-ci.com/github/hivesolutions/prettier_config_hive)
+[![Build Status](https://app.travis-ci.com/hivesolutions/prettier-config-hive.svg?branch=master)](https://travis-ci.com/github/hivesolutions/prettier-config-hive)
 [![npm Status](https://img.shields.io/npm/v/prettier-config-hive.svg)](https://www.npmjs.com/package/prettier-config-hive)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/)
